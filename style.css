@@ -22,12 +22,15 @@ body{
     width: 270px;
     gap: 16px;
     text-align: center;
+    box-shadow: 10px 10px 10px 4px rgba(0, 0, 255, 0.08);
+
 }
 
 .card-title{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     font-size: 20px;
+    padding: 0 8px;
 }
 
 .card-description{
@@ -35,6 +38,7 @@ body{
     color: hsl(220, 15%, 55%);
     padding-bottom: 8px;
     font-size: 15px;
+    padding: 0 8px 4px;
 }
 
 .qrcode{
