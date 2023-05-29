@@ -16,7 +16,7 @@ This is my solution of the basic qr code problem by frontend mentor created usin
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/qr-code-component-page-created-using-html-and-css-ozaeBoW08K)
 - Live Site URL: [Here](https://devashishchakraborty.github.io/qr-code-component)
 
 ### Built with
